@@ -1,0 +1,8 @@
+flask
+flask-cors
+psycopg2-binary
+yfinance
+twilio
+python-dotenv
+requests
+gunicorn
